@@ -1,0 +1,85 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager (Console)/task/build/
+/Cinema Room Manager (Console)/task/out/
+/Cinema Room Manager (Console)/task/out/production/classes/
+/Topics/Characters/Compare Latin letters/out/
+/Topics/Characters/Compare Latin letters/out/production/classes/
+/Topics/Characters/Comparing numbers and characters/out/
+/Topics/Characters/Comparing numbers and characters/out/production/classes/
+/Topics/Declaring functions/Get last digit/out/
+/Topics/Declaring functions/Get last digit/out/production/classes/
+/Topics/Declaring functions/The square of a number/out/
+/Topics/Declaring functions/The square of a number/out/production/classes/
+/Topics/Declaring functions/The sum of three numbers/out/
+/Topics/Declaring functions/The sum of three numbers/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/production/classes/
+/Topics/Floating-point types/Difference between two doubles/out/
+/Topics/Floating-point types/Difference between two doubles/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and ranges/The longest sequence/out/
+/Topics/For loop and ranges/The longest sequence/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/production/classes/
+/Topics/Multi-dimensional list/Cube of zeros/out/
+/Topics/Multi-dimensional list/Cube of zeros/out/production/classes/
+/Topics/Multi-dimensional list/Kotlin lists/out/
+/Topics/Multi-dimensional list/Kotlin lists/out/production/classes/
+/Topics/Ranges/At least one/out/
+/Topics/Ranges/At least one/out/production/classes/
+/Topics/Ranges/Job/out/
+/Topics/Ranges/Job/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Relational operators/Who is less than 10/out/
+/Topics/Relational operators/Who is less than 10/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Taming exceptions/Handle string exception/out/
+/Topics/Taming exceptions/Handle string exception/out/production/classes/
+/Topics/The try-catch statement/Braking distance/out/
+/Topics/The try-catch statement/Braking distance/out/production/classes/
+/Topics/When expression/Harry Potter/out/
+/Topics/When expression/Harry Potter/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/Shape/out/
+/Topics/When expression/Shape/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
